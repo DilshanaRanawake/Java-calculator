@@ -18,6 +18,15 @@ This is a simple calculator application built using Java and Swing. It can perfo
 - Java AWT
 
 #
+Here are some screenshots of the Calculator application:(calculation -> 12*2 =24.0)
+
+![Screenshot 1](https://github.com/DilshanaRanawake/Java-calculator/blob/main/Screenshots/Screenshot%20(94).png)
+![Screenshot 1](https://github.com/DilshanaRanawake/Java-calculator/blob/main/Screenshots/Screenshot%20(95).png)
+![Screenshot 1](https://github.com/DilshanaRanawake/Java-calculator/blob/main/Screenshots/Screenshot%20(97).png)
+![Screenshot 1](https://github.com/DilshanaRanawake/Java-calculator/blob/main/Screenshots/Screenshot%20(98).png)
+
+
+
 -Inspired by a YouTube video
 
 
